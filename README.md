@@ -1,2 +1,1 @@
-# Tols
-Jangan Sembarangan
+Ea :P
