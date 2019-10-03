@@ -35,7 +35,7 @@ __     ___  ___ _____ _____ _____
     Spamer By : V1O7ET                
     Code By : V1O7ET     
     Contact Me : 085730882379
-    Me Web : Cubetols.xyz                                             \n\n";
+    My Web : Cubetols.xyz                                             \n\n";
 echo "Nomor Target : ";
 $nomor = trim(fgets(STDIN));
 echo "Jumlah Sms : ";
