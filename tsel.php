@@ -17,21 +17,20 @@ function reqotp($no){
 
 print "\033[0;32m 
 =======================================
- TEMBAK PAKET BY BINTANG NUR PRADANA
- MASIH DALAM TAHAP UJICOBA
- BILA INGIN DI UPDATE TIAP HARI
- FOLLOW ACCOUNT SOSMED SAYA DI BAWAH INI
- 
- IG: @bintang_nur_pradana
- Fb: Bintang Nur Pradana
- Yt: Bintang Nur Pradana
+    ____            _____     
+   / __ \__  ______/ /   |____
+  / /_/ / / / / __  / /| /_  /
+ / _, _/ /_/ / /_/ / ___ |/ /_
+/_/ |_|\__,_/\__,_/_/  |_/___/
+
+Script Get Code Telkomsel ^^
  =======================================
 \n Minta password tsel \n " ;
-echo " \033[36;1m Nomor 62xx: ";
+echo " \033[36;1m Nomor 62xxxx: ";
 $nomor = trim(fgets(STDIN));
 $execute = reqotp($nomor);
 print $execute;
-print "\033[36;1m password terkirim \n";
+print "\033[36;1m password terkirim ngentod \n";
 
 
 ?>
