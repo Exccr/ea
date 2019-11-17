@@ -24,7 +24,7 @@ print "\033[0;32m
 /_/ |_|\__,_/\__,_/_/  |_/___/
 
 Script Get Code Telkomsel ^^
- =======================================
+=======================================
 \n Minta password tsel \n " ;
 echo " \033[36;1m Nomor 62xxxx: ";
 $nomor = trim(fgets(STDIN));
