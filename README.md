@@ -1,5 +1,4 @@
 Males Update :V
-Ke Web Langsung Aja CUBETOLS.XYZ
 
 Untuk Gunain Nya 
 
@@ -13,5 +12,5 @@ $git clone https://github.com/V1O7ET/ea
 
 $cd ea
 
-$php phd.php
+$php path.php
 
