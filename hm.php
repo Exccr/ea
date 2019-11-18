@@ -26,7 +26,7 @@ print "\033[0;32m
 
 =======================================
 \n Tinggal Pakek Aja Ribet \n " ;
-echo " \033[36;1m Nomor 62xxxx: ";
+echo " \033[36;1m Nomor 08xx: ";
 $nomor = trim(fgets(STDIN));
 $execute = reqotp($nomor);
 print $execute;
