@@ -23,7 +23,7 @@ print "\033[0;32m
  / _, _/ /_/ / /_/ / ___ |/ /_
 /_/ |_|\__,_/\__,_/_/  |_/___/
 
-Script Get OTP Telkomsel ^^
+Tool Get OTP Telkomsel ^^
 =======================================
 \n Tinggal Pakek Aja Ribet \n " ;
 echo " \033[36;1m Nomor 62xxxx: ";
